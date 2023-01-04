@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **html, css**
 
-- 📫 How to reach me **vintage#1493**
+- 📫 How to reach me **vintage#6082**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
