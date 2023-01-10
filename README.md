@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm vintage</h1>
 <h3 align="center">A beginner young developer from Poland</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maciek2009&label=Profile%20views&color=0e75b6&style=flat" alt="maciek2009" /> </p>
-Projekty:
 [LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maciek2009&label=Profile%20views&color=0e75b6&style=flat" alt="maciek2009" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maciek2009" alt="maciek2009" /></a> </p>
 
 - 🌱 I’m currently learning **css**
