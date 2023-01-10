@@ -14,7 +14,7 @@
 
 <h3 align="left">Projekty:</h3>
 <br>
-https://user-images.githubusercontent.com/66754494/211543589-13aacd4a-9e48-42f6-9aee-94546480680a.png [LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V!
+[LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V!
 
 
 <h3 align="left">Languages and Tools:</h3>
