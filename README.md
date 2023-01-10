@@ -11,8 +11,10 @@
 
 - 📫 How to reach me **vintage#6082**
 
+
 <h3 align="left">Projekty:</h3>
 [LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
