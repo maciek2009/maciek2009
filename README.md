@@ -15,7 +15,7 @@
 <h3 align="left">Projekty:</h3>
 <br>
 
-[LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V!
+[LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V - CEO, and Developer.
 
 
 <h3 align="left">Languages and Tools:</h3>
