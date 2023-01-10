@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vintage</h1>
 <h3 align="center">A beginner young developer from Poland</h3>
 
-Projekty:
+<h3 align="left">Projekty:</h3>
 <br>
 [LifeProject](https://github.com/LifeProject-Roleplay/) - Heavy, text based GTA V RP on alt:V
 
