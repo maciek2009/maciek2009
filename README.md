@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wintydz" alt="wintydz" /></a> </p>
 
-- 🔭 I’m currently working on [Life Project](https://github.com/LifeProject-Roleplay/)
+- 🔭 I’m currently working on [Life Project](https://github.com/LifeProject-Roleplay/), as CEO | Developer
 
 - 📫 How to reach me **vintage#6082**
 
